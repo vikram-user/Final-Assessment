@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "position": "Front-End Developer",
+    "company": "Acme Corporation",
+    "experience": "3-5 years",
+    "location": "New York, NY",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 2,
+    "position": "Software Engineer",
+    "company": "Widgets Inc.",
+    "experience": "2-4 years",
+    "location": "San Francisco, CA",
+    "salary": "$120,000 - $140,000"
+  },
+  {
+    "id": 3,
+    "position": "Full-Stack Developer",
+    "company": "Tech Co.",
+    "experience": "5-7 years",
+    "location": "Seattle, WA",
+    "salary": "$110,000 - $130,000"
+  },
+  {
+    "id": 4,
+    "position": "Data Scientist",
+    "company": "Innovative Solutions",
+    "experience": "4-6 years",
+    "location": "Chicago, IL",
+    "salary": "$90,000 - $110,000"
+  },
+  {
+    "id": 5,
+    "position": "UX Designer",
+    "company": "Big Ideas Inc.",
+    "experience": "2-3 years",
+    "location": "Los Angeles, CA",
+    "salary": "$80,000 - $100,000"
+  },
+  {
+    "id": 6,
+    "position": "Mobile App Developer",
+    "company": "Tech Startup",
+    "experience": "1-2 years",
+    "location": "Austin, TX",
+    "salary": "$70,000 - $90,000"
+  },
+  {
+    "id": 7,
+    "position": "Product Manager",
+    "company": "Innovate Solutions",
+    "experience": "5-7 years",
+    "location": "Boston, MA",
+    "salary": "$120,000 - $140,000"
+  },
+  {
+    "id": 8,
+    "position": "Network Administrator",
+    "company": "Secure Networks",
+    "experience": "3-5 years",
+    "location": "Washington, D.C.",
+    "salary": "$80,000 - $100,000"
+  },
+  {
+    "id": 9,
+    "position": "Web Developer",
+    "company": "Web Co.",
+    "experience": "2-3 years",
+    "location": "Miami, FL",
+    "salary": "$60,000 - $80,000"
+  },
+  {
+    "id": 10,
+    "position": "DevOps Engineer",
+    "company": "Tech Giant",
+    "experience": "5-7 years",
+    "location": "San Diego, CA",
+    "salary": "$130,000 - $150,000"
+  }
+]

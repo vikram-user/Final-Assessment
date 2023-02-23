@@ -1,0 +1,86 @@
+/* .App {
+  text-align: center;
+} */
+
+#message,
+.experience-details {
+  resize: none;
+}
+
+.applyjob-form {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.custom-footer {
+  background-color: #241052;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.button-apply {
+  color: white !important;
+}
+.applied-for-text {
+  text-align: center;
+}
+.text-info {
+  text-align: center;
+}
+
+.carousel-caption {
+  background-color: black;
+}
+.footer-copyrights {
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 20px !important;
+}
+
+.footer-social {
+  margin-top: 100px;
+}
+.get-in-touch-text {
+  text-align: center;
+  color: rgb(202, 36, 36);
+}
+
+@media only screen and (max-width: 450px) {
+  .carousel-imgs {
+    height: -webkit-fill-available;
+    object-fit: fill;
+  }
+  #contact-us-form {
+    width: 100% !important;
+  }
+  #contact-us-details {
+    display: block !important;
+  }
+  #contact-us-image {
+    width: 100% !important;
+    margin-top: 20px;
+    padding: 0 !important;
+  }
+  #jobs-list-page {
+    padding: 20px !important;
+  }
+  #navbar {
+    margin: 0 !important;
+  }
+  #jobs-section {
+    text-align: initial !important;
+    padding: 20px !important;
+  }
+  #jobs-form {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+  .applyjob-form {
+    width: 100% !important;
+  }
+}
